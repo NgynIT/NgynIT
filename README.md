@@ -2,9 +2,11 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+My Top Languages
+![image](https://github.com/NgynIT/NgynIT/assets/140426009/960f2160-89ce-4655-b468-8080255555db)
+![image](https://github.com/NgynIT/NgynIT/assets/140426009/419dbd60-e77a-425f-beeb-ebd7510c960a)
+![image](https://github.com/NgynIT/NgynIT/assets/140426009/06dc2283-0196-4ef2-8e93-6c715314daed)
+![image](https://github.com/NgynIT/NgynIT/assets/140426009/0e2aefea-50e6-43c7-9296-f583167747ee)
 
-<!---
-NgynIT/NgynIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
