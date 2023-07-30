@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 
   
-My Top Languages
+My Skill
 
 
 ![image](https://github.com/NgynIT/NgynIT/assets/140426009/960f2160-89ce-4655-b468-8080255555db){: width="50px"}
