@@ -1,6 +1,6 @@
 ## Welcome to My Github Repo!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakha-elctrnx&label=Profile%20views&color=0e75b6&style=flat" alt="wirapratamaz" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NgynIT&label=Profile%20views&color=0e75b6&style=flat" alt="wirapratamaz" /> </p>
 
 - 👋 Hi, I’m @NgynIT
 - 👀 I’m interested in ...
