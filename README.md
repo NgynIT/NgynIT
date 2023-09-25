@@ -57,9 +57,6 @@
     <td style="border: none; padding: 0;">
         <img alt="git" src="https://imgur.com/x0VXxwf.png" width='35' style='margin-right: 1rem;' /> 
     </td>
-    <td style="border: none; padding: 0;">
-        <img alt="jest" src="https://i.imgur.com/yVqeAqT.png" width='35' style='margin-right: 1rem;' /> 
-    </td>
     <td style="border: none; padding: 0;"> 
         <img alt="redux" src="https://i.imgur.com/hcOAsfS.png" width='35' style='margin-right: 1rem; margin-left: -15px;'/>
     </td>
