@@ -18,7 +18,7 @@
     </td>
     <td style="border: none; padding: 0; margin: 0;">
         <a href='https://www.instagram.com/nis.110902/'>
-            <img src='https://imgur.com/IzC6G8R.png' width="35" style="margin: 0 0.7rem" />
+            <img src='https://imgur.com/Tw78ZJR.png' width="35" style="margin: 0 0.7rem" />
         </a>
     </td>
     <td style="border: none; padding: 0; margin: 0;">
@@ -53,6 +53,12 @@
     </td>
     <td style="border: none; padding: 0;"> 
         <img alt="spring" src="https://imgur.com/rmggvzk.png" width='35' style='margin-right: 1rem; margin-left: -15px;'/>
+    </td>
+    <td style="border: none; padding: 0;"> 
+        <img alt="inteliij" src="https://imgur.com/YuSUuJ0.png" width='35' style='margin-right: 1rem; margin-left: -15px;'/>
+    </td>
+    <td style="border: none; padding: 0;">
+        <img alt="postman" src="https://imgur.com/fofN4Z7.png" width='35' style='margin-right: 1rem;' /> 
     </td>
     <td style="border: none; padding: 0;">
         <img alt="git" src="https://imgur.com/x0VXxwf.png" width='35' style='margin-right: 1rem;' /> 
