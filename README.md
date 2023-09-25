@@ -6,16 +6,68 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
+- 
+### follow me :
+  <div align="middle">
+<table style="border: none; margin: 2rem 0;">
+<tr>
+    <td style="border: none; padding: 0; margin: 0;">
+        <a href='mailto:nkockik@gmail.com'>
+          <img src='https://i.imgur.com/L9ZfWvP.png' width="35" style="margin: 0 0.7rem" />
+        </a>
+    </td>
+    <td style="border: none; padding: 0; margin: 0;">
+        <a href='https://www.instagram.com/nis.110902/'>
+            <img src='https://imgur.com/tjJZ1Lj' width="35" style="margin: 0 0.7rem" />
+        </a>
+    </td>
+    <td style="border: none; padding: 0; margin: 0;">
+        <a href='https://www.facebook.com/nis.110902/'>
+            <img src='https://imgur.com/27zh0vs' width="35" style="margin: 0 0.7rem"/>
+        </a> 
+    </td>
+</tr>
+</table>
+</div>
 
-### My Skill
+#### My Skill
 
-<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Intellij" width="40px" src="https://github.com/NgynIT/NgynIT/assets/140426009/a4459052-6ba7-44e8-8603-07e17759b063"/>
-<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<div align="middle">
 
-<br><br>
+<table style="border: none;">
+<tr style="border: none; padding: 0; margin: 0;">
+    <td style="border: none; padding: 0; margin: 0;"> 
+        <img alt="html" src="https://i.imgur.com/Wo63eUu.png" width='35' style='margin-right: 1rem;' /> 
+    </td>
+    <td style="border: none; padding: 0;"> 
+        <img alt="css" src="https://i.imgur.com/3OFoRac.png" width='35' style='margin-right: 1rem;' /> 
+    </td>
+    <td style="border: none; padding: 0;"> 
+        <img alt="js" src="https://i.imgur.com/hrRfAmU.png" width='35' style='margin-right: 1rem;' /> 
+    </td>
+    <td style="border: none; padding: 0;"> 
+        <img alt="sql" src="https://imgur.com/SYGprUx" width='35' style='margin-right: 1rem;' /> 
+    </td>
+    <td style="border: none; padding: 0;">
+        <img alt="react" src="https://i.imgur.com/52AiCrr.png" width='35' style='margin-right: 1rem; margin-left: -15px;'/> 
+    </td>
+    <td style="border: none; padding: 0;"> 
+        <img alt="spring" src="https://imgur.com/QKiYKAJ" width='35' style='margin-right: 1rem; margin-left: -15px;'/>
+    </td>
+    <td style="border: none; padding: 0;">
+        <img alt="git" src="https://imgur.com/vqLXSxl" width='35' style='margin-right: 1rem;' /> 
+    </td>
+    <td style="border: none; padding: 0;">
+        <img alt="jest" src="https://i.imgur.com/yVqeAqT.png" width='35' style='margin-right: 1rem;' /> 
+    </td>
+    <td style="border: none; padding: 0;"> 
+        <img alt="redux" src="https://i.imgur.com/hcOAsfS.png" width='35' style='margin-right: 1rem; margin-left: -15px;'/>
+    </td>
+    
+</tr>
+</table>
+</div>
+
 
 
 
