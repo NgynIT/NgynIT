@@ -52,13 +52,7 @@
         <img alt="react" src="https://i.imgur.com/52AiCrr.png" width='35' style='margin-right: 1rem; margin-left: -15px;'/> 
     </td>
     <td style="border: none; padding: 0;"> 
-        <img alt="spring" src="https://imgur.com/rmggvzk.png" width='35' style='margin-right: 1rem; margin-left: -15px;'/>
-    </td>
-    <td style="border: none; padding: 0;"> 
         <img alt="inteliij" src="https://imgur.com/YuSUuJ0.png" width='35' style='margin-right: 1rem; margin-left: -15px;'/>
-    </td>
-    <td style="border: none; padding: 0;">
-        <img alt="postman" src="https://imgur.com/fofN4Z7.png" width='35' style='margin-right: 1rem;' /> 
     </td>
     <td style="border: none; padding: 0;">
         <img alt="git" src="https://imgur.com/x0VXxwf.png" width='35' style='margin-right: 1rem;' /> 
