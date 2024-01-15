@@ -12,8 +12,13 @@
 <table style="border: none; margin: 2rem 0;">
 <tr>
     <td style="border: none; padding: 0; margin: 0;">
-        <a href='mailto:nkockik@gmail.com'>
+        <a href='mailto:nis.110902@gmail.com'>
           <img src='https://i.imgur.com/L9ZfWvP.png' width="35" style="margin: 0 0.7rem" />
+        </a>
+    </td>
+    <td style="border: none; padding: 0; margin: 0;">
+        <a href='https://www.linkedin.com/in/nguyen-np-2504782aa/'>
+          <img src='https://i.imgur.com/lhMb0RA.png' width="35" style="margin: 0 0.7rem"/>
         </a>
     </td>
     <td style="border: none; padding: 0; margin: 0;">
