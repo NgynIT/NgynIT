@@ -17,7 +17,7 @@
         </a>
     </td>
     <td style="border: none; padding: 0; margin: 0;">
-        <a href='https://www.linkedin.com/in/nguyen-np-2504782aa/'>
+        <a href='https://www.linkedin.com/in/ngynIT/'>
           <img src='https://i.imgur.com/lhMb0RA.png' width="35" style="margin: 0 0.7rem"/>
         </a>
     </td>
