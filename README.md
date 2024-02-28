@@ -21,14 +21,9 @@
           <img src='https://i.imgur.com/lhMb0RA.png' width="35" style="margin: 0 0.7rem"/>
         </a>
     </td>
-    <td style="border: none; padding: 0; margin: 0;">
-        <a href='https://www.instagram.com/nis.110902/'>
-            <img src='https://imgur.com/Tw78ZJR.png' width="35" style="margin: 0 0.7rem" />
-        </a>
-    </td>
-    <td style="border: none; padding: 0; margin: 0;">
-        <a href='https://www.facebook.com/nis.110902/'>
-            <img src='https://imgur.com/AEaRl35.png' width="35" style="margin: 0 0.7rem"/>
+    <td style="border: none; padding: 0; margin: 0;"> 
+        <a href='https://stackoverflow.com/users/23448694/nguyennp'>
+            <img src='https://i.imgur.com/7KVhfRX.png' width="35" style="margin: 0 0.7rem"/>
         </a> 
     </td>
 </tr>
