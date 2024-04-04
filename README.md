@@ -12,7 +12,7 @@
 <table style="border: none; margin: 2rem 0;">
 <tr>
     <td style="border: none; padding: 0; margin: 0;">
-        <a href='mailto:nis.110902@gmail.com'>
+        <a href='mailto:nguyennpcoder@gmail.com'>
           <img src='https://i.imgur.com/L9ZfWvP.png' width="35" style="margin: 0 0.7rem" />
         </a>
     </td>
