@@ -50,14 +50,14 @@
   <td style="border: none; padding: 0;">
         <img alt="Redis" src="https://imgur.com/FhcMkCI.png" width='35' style='margin-right: 1rem;' /> 
     </td>
+  <td style="border: none; padding: 0;"> 
+        <img alt="redux" src="https://i.imgur.com/hcOAsfS.png" width='35' style='margin-right: 1rem; margin-left: -15px;'/>
+    </td>
     <td style="border: none; padding: 0;"> 
         <img alt="inteliij" src="https://imgur.com/YuSUuJ0.png" width='35' style='margin-right: 1rem; margin-left: -15px;'/>
     </td>
     <td style="border: none; padding: 0;">
         <img alt="git" src="https://imgur.com/x0VXxwf.png" width='35' style='margin-right: 1rem;' /> 
-    </td>
-    <td style="border: none; padding: 0;"> 
-        <img alt="redux" src="https://i.imgur.com/hcOAsfS.png" width='35' style='margin-right: 1rem; margin-left: -15px;'/>
     </td>
     
 </tr>
