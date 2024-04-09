@@ -2,11 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NgynIT&label=Profile%20views&color=0e75b6&style=flat" alt="wirapratamaz" /> </p>
 
-- 👋 Hi, I’m @NgynIT
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 
+- 👋 Hi, I’m @nguyennpcoder
 ### follow me :
   <div align="middle">
 <table style="border: none; margin: 2rem 0;">
